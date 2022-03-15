@@ -1,0 +1,11 @@
+selain-palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-selain: Created
+
+note over selain:
+Selain lähettää POST kutsun
+jossa on mukana JSON-data
+mikä tallennetaan palvelimelle
+ja selaimella pyörivä JS koodi
+päivitää uuden muistiinpanon ilman 
+uudelleenohjausta
+end note
