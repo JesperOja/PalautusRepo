@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer $2a$10$LgfKxXacEQ7hCUFWF/vSxOF8al9ylqcs61hawDKf6jUrQLvDkZstC
+
+{
+    "title": "Token login",
+    "author": "Jepsu",
+    "url": "Blogisivu"
+}
