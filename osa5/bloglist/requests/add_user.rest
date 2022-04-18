@@ -1,0 +1,8 @@
+get http://localhost:3003/api/users
+Content-Type: application/json
+
+{
+    "username": "Just",
+    "name": "Justus",
+    "password": "root"
+}
