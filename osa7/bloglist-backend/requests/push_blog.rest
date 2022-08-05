@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/testing/reset
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikpvb3MiLCJpZCI6IjYyNGQ1MGY3ZTkyMWFlMzA2MDUxZDdhNyIsImlhdCI6MTY0OTIzNDIyNywiZXhwIjoxNjQ5MjM3ODI3fQ.vzs5ASy9V1SP9V8GlVgNx4FxcFKTNudfjM643NUrDXQ
+
+{
+    "title": "Token login",
+    "author": "Jepsu",
+    "url": "Blogisivu"
+}
